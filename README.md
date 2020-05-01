@@ -1,4 +1,5 @@
 # invoice_number
+How to generate Invoice Number with Laravel
 Create Unique Invoice Number As Year
 
 
